@@ -127,4 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.vscode/
+
+# Visual Studio Code
+.vscode
+.DS_Store
